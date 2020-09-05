@@ -1,5 +1,10 @@
-### Hi there 👋
+![logo](https://obj.leckemby.me/img/leckembydotme.png)
 
+Hi! :wave: I'm Brandon, a linux sysadmin, devops engineer, indie hacker, and raspberrypi (pi) enthusiast. I'm passionate about internet privacy/safety, and I like docs. A lot.
+
+I started my tech career at [Linode](https://www.linode.com) as a linux specialist and on-call backups administrator. Now, I consult as a linux admin, frontend dev, devops specialist, and docs consultant. At home, I run most everything from a pi cluster: [k3s](https://k3s.io/), [pihole](https://pi-hole.net), [prom+grafana](https://grafana.com/oss/prometheus/), [gitea](https://gitea.io/en-us/), [minio](https://min.io/), and others.
+
+Let's chat about all that's cool in tech.
 <!--
 **kodumbeats/kodumbeats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

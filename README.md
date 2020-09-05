@@ -2,7 +2,7 @@
 
 Hi! :wave: I'm Brandon, a linux sysadmin, devops engineer, indie hacker, and raspberrypi (pi) enthusiast. I'm passionate about internet privacy/safety, and I like docs. A lot.
 
-I started my tech career at [Linode](https://www.linode.com) as a linux specialist and on-call backups administrator. Now, I consult as a linux admin, frontend dev, devops specialist, and docs consultant. At home, I run most everything from a pi cluster: [k3s](https://k3s.io/), [pihole](https://pi-hole.net), [prom+grafana](https://grafana.com/oss/prometheus/), [gitea](https://gitea.io/en-us/), [minio](https://min.io/), and others.
+I started my tech career at [Linode](https://www.linode.com) as a linux specialist and on-call backups administrator. Now, as a consultant, I provide linux, devops, fullstack, docs, and support services. At home, I run most everything from a cluster of six pis: [k3s](https://k3s.io/), [pihole](https://pi-hole.net), [prom+grafana](https://grafana.com/oss/prometheus/), [gitea](https://gitea.io/en-us/), [minio](https://min.io/), and others.
 
 Let's chat about all that's cool in tech.
 <!--

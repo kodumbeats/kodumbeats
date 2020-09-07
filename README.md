@@ -5,6 +5,11 @@ Hi! :wave: I'm Brandon, a linux sysadmin, devops engineer, indie hacker, and ras
 I started my tech career at [Linode](https://www.linode.com) as a linux specialist and on-call backups administrator. Now, as a consultant, I provide linux, devops, fullstack, docs, and support services. At home, I run most everything from a cluster of six pis: [k3s](https://k3s.io/), [pihole](https://pi-hole.net), [prom+grafana](https://grafana.com/oss/prometheus/), [gitea](https://gitea.io/en-us/), [minio](https://min.io/), and others.
 
 Let's chat about all that's cool in tech.
+
+### Maintaining: 
+- [Min](https://minbrowser.org), a smarter web browser. ([Github](https://github.com/minbrowser/min)) 
+- Min install scripts for [arch linux](https://archlinux.org). ([Github](https://github.com/kodumbeats/min-archlinux))
+
 <!--
 **kodumbeats/kodumbeats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

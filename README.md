@@ -7,8 +7,8 @@ I started my tech career at [Linode](https://www.linode.com) as a linux speciali
 Let's chat about all that's cool in tech.
 
 ### Maintaining: 
-- [Min](https://minbrowser.org), a smarter web browser. ([Github](https://github.com/minbrowser/min)) 
-- Min install scripts for [arch linux](https://archlinux.org). ([Github](https://github.com/kodumbeats/min-archlinux))
+- [Min](https://minbrowser.org), a smarter web browser. ([source](https://github.com/minbrowser/min)) 
+- Min install scripts for [arch linux](https://archlinux.org). ([source](https://github.com/kodumbeats/min-archlinux))
 
 <!--
 **kodumbeats/kodumbeats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

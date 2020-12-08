@@ -1,26 +1,12 @@
-![logo](https://obj.leckemby.me/img/leckembydotme.png)
+Hi! :wave: I'm Brandon, a solutions architect, linux sysadmin, devops engineer, and raspberrypi (pi) enthusiast. I'm passionate about internet privacy/safety, and I like docs. A lot.
 
-Hi! :wave: I'm Brandon, a linux sysadmin, devops engineer, solutions architect, and raspberrypi (pi) enthusiast. I'm passionate about internet privacy/safety, and I like docs. A lot.
-
-I started my tech career at [Linode](https://www.linode.com/community/user/bleckemby/answers) as a linux specialist and on-call backups administrator. Now, as a consultant, I provide linux, devops, fullstack, docs, and support services. At home, I run most everything from a cluster of six pis: [k3s](https://k3s.io/), [pihole](https://pi-hole.net), [prom+grafana](https://grafana.com/oss/prometheus/), [gitea](https://gitea.io/en-us/), [minio](https://min.io/), and others.
+I started my tech career at [Linode](https://www.linode.com/community/user/bleckemby/answers) as a linux specialist and on-call backups administrator. Now, as a consultant, I provide fullstack, linux, devops, docs, and support services. At home, I run most everything from a cluster of six pis: [k3s](https://k3s.io/), [pihole](https://pi-hole.net), [prom+grafana](https://grafana.com/oss/prometheus/), [gitea](https://gitea.io/en-us/), [minio](https://min.io/), and others.
 
 Let's chat about all that's cool in tech.
 
+### Building:
+- [ExpressionIO](https://expressionio.com): Automatable spreadsheet backed by an end-to-end encrypted database.
+- docdownCMS: Simplify GMP documentation. Stop adjusting doc formatting - write in Markdown and get back to meaningful work.
+
 ### Maintaining: 
 - [Min](https://minbrowser.org), a smarter web browser. ([source](https://github.com/minbrowser/min)) 
-- Min install scripts for [arch linux](https://archlinux.org). ([source](https://github.com/kodumbeats/min-archlinux))
-
-<!--
-**kodumbeats/kodumbeats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

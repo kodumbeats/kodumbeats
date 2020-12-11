@@ -6,7 +6,7 @@ Let's chat about all that's cool in tech.
 
 ### Building:
 - [ExpressionIO](https://expressionio.com): Automatable spreadsheet backed by an end-to-end encrypted database.
-- docdownCMS: Simplify GMP documentation. Stop adjusting doc formatting - write in Markdown and get back to meaningful work.
+- [docdownCMS](https://github.com/kodumbeats/docdownCMS): Simplify GMP documentation. Stop adjusting doc formatting - write in Markdown and get back to meaningful work.
 
 ### Maintaining: 
 - [Min](https://minbrowser.org), a smarter web browser. ([source](https://github.com/minbrowser/min)) 

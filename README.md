@@ -1,6 +1,6 @@
 Hi! :wave: I'm Brandon, a fullstack engineer at @appwrite. I'm passionate about internet privacy/safety, and I like docs. A lot.
 
-Let's chat about all things internet.
+I want to build open-source software that I _want_ to use - let's chat about all things internet!
 ```bash
 $ tree ./favoriteTools  
 ./favoriteTools
@@ -8,18 +8,21 @@ $ tree ./favoriteTools
 │   ├── caddy
 │   ├── deno
 │   ├── express
-│   └── node
+│   ├── node
+│   └── utopia
 ├── devops
-│   ├── grafana
 │   ├── prometheus
+│   ├── travis
 │   └── vault
 ├── frontend
+│   ├── alpinejs
 │   ├── figma
-│   ├── nuxt
-│   └── vue
+│   ├── tailwindcss
+│   └── vue3
 └── systems
     ├── ansible
     ├── docker
-    └── kubernetes
+    ├── kubernetes
+    └── nomad
 
 ```

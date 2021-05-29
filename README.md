@@ -7,22 +7,21 @@ $ tree ./favoriteTools
 ├── backend
 │   ├── caddy
 │   ├── deno
-│   ├── express
 │   ├── php
 │   └── utopia
 ├── devops
-│   ├── prometheus
-│   ├── travis
-│   └── vault
+│   ├── gitlab
+│   ├── terraform
+│   └── travis
 ├── frontend
 │   ├── alpinejs
-│   ├── figma
-│   ├── tailwindcss
+│   ├── html_css
+│   ├── js
 │   └── vue3
 └── systems
     ├── ansible
     ├── docker
     ├── kubernetes
-    └── nomad
+    └── swarm
 
 ```

@@ -10,11 +10,18 @@ $ tree ./favoriteTools
 │   ├── lua
 │   ├── php
 │   └── python
-└── systems
-    ├── ansible
-    ├── docker
-    ├── kubernetes
-    ├── linux
-    └── terraform
+├── systems
+│   ├── ansible
+│   ├── docker
+│   ├── kubernetes
+│   ├── linux
+│   └── terraform
+└── toolkit
+    ├── fish shell
+    ├── kitty terminal
+    ├── lazygit/lazydocker
+    ├── ranger
+    ├── neovim
+    └── tmux
 
 ```

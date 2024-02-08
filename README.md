@@ -1,12 +1,12 @@
-Hi! :wave: I'm Brandon, a software engineer @mongodb working on developer experience, FOSS advocate, and _that guy_ who uses vim.
+Hi! :wave: I'm Brandon, a software engineer @mongodb working on AI. I'm _that guy_ who uses vim.
 
 ```bash
 $ tree ./favoriteTools
 ./favoriteTools
 ├── languages
-│   ├── elixir
-│   ├── go
-│   ├── js/ts/node/deno
+│   ├── gleam/elixir/erlang
+│   ├── golang
+│   ├── js/ts/node/deno/bun
 │   ├── lua
 │   ├── php
 │   └── python
@@ -18,7 +18,7 @@ $ tree ./favoriteTools
 │   └── terraform
 └── toolkit
     ├── fish shell
-    ├── kitty terminal
+    ├── wezterm
     ├── lazygit/lazydocker
     ├── ranger
     ├── neovim
